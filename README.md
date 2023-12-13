@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_world] <a name="about-project"></a>
+# 📖 [Gretting Message] <a name="about-project"></a>
 
 **[GrettingMessage]** is a simple app generating greets messages with diffrent langaueges .
 
